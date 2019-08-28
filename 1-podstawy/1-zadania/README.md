@@ -39,8 +39,14 @@ Wpisz w konsoli debugera słowo `console` i naciśnij enter.
 Rozwiń pokazany obiekt i spróbuj analogicznie do `console.log()` przetestować kilka dodatkowych metod obiektu console. W razie czego posiłkuj się stroną https://developer.mozilla.org/pl/docs/Web/API/Console
 
 ## Zadanie 9
-Podobnie do poprzedniego zadania wypisz w konsoli debugera obiekt `Math`. Wypisz w konsoli sinus, kosinus i tangens liczby PI. Korzystaj tylko z właściwości i metod obiektu Math.
-Dodatkowo wypisz te wartości zaokrąglone w dół i górę.
+Podobnie do poprzedniego zadania wypisz w konsoli debugera obiekt `Math`. Wypisz w konsoli:
+
+- sinus z 1
+- kosinus z 1
+- tangens z 1
+- liczbę PI
+
+Korzystaj tylko z właściwości i metod obiektu Math. Dodatkowo wypisz te wartości zaokrąglone.
 
 
 

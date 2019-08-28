@@ -94,7 +94,7 @@ Mamy zdanie:
 const txt = "Turlał goryl po Urlach kolorowe korale"
 ```
 
-Policz ile w tym zdaniu jest liter (bez spacji, ale z przecinkami), oraz ile jest wyrazów. Obie liczby wypisz w konsoli w ładnym tekście :)
+Policz ile w tym zdaniu jest liter (bez spacji), oraz ile jest wyrazów. Obie liczby wypisz w konsoli w ładnym tekście :)
 
 ## Zadanie 11
 Mamy tablicę:

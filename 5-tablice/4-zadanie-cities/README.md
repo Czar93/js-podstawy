@@ -6,6 +6,11 @@ Do pliku html dołączone są 2 pliki: cities.js i app.js.
 
 W pliku cities.js znajduje się tablica cities z miastami - każde miast to obiekt.
 
+Zadanie wykonuj w pliku app.js.
+Podobnie do zadania users - postaraj się używać odpowiednich funkcji dla tablic i stosować jak najkrótszy zapis.
+
+Przy rozwiązywaniu punktów staraj się unikać klasycznej pętli for/while.
+
 ## Zadanie 1
 Wypisz ile miast jest w Polsce
 

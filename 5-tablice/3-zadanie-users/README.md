@@ -2,34 +2,20 @@
 
 # KursJS - tablice iteracje
 
-W pliku data.js mamy tablicę z użytkownikami.
+Do pliku index.html dołączone są 2 pliki js: app.js i data.js. W pliku data.js jest tablica użytkowników. Zadanie rozwiązuj w pliku app.js.
 
 Twoim zadaniem jest wykonać poniższe polecenia.
-Użyj odpowiednich metod dla tablic. Użyj jak najkrótszego zapisu.
-Nie używaj var i pętli for!
 
-Do oddzielenia kolejnych zadań wykorzystaj super trik:
+Przy rozwiązywaniu poszczególnych zadań staraj się korzystać z odpowiednich metod dla tablic i używać jak najkrótszego zapisu.
 
-```
-console.group("To jest treść zadania"); //to jest rozwinięta grupa
-    console.log(....)
-    console.log(....)
-    console.log(....)
-console.groupEnd();
-```
-
-lub
-
-```
-console.groupCollapsed("To jest treść zadania"); //to jest zwinięta grupa
-    console.log(....)
-    console.log(....)
-    console.log(....)
-console.groupEnd();
-```
+Przy rozwiązywaniu punktów staraj się unikać klasycznej pętli for/while.
 
 ## Zadanie 1
-Wypisz imiona i nazwiska użytkowników oraz ich email np. `Claire Lucas : clairelucas@memora.com`
+Wypisz imiona i nazwiska użytkowników oraz ich email np.
+
+```
+Claire Lucas -> clairelucas@memora.com
+```
 
 ## Zadanie 2
 Wypisz tablicę z wszystkimi użytkownikami pełnoletnimi
