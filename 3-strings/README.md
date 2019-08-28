@@ -18,7 +18,7 @@ Mamy zmienną:
 ```
 const text = "Ala ma kota";
 ```
-Sprawdź czy występuje w niej znak @. Jeżeli tak - wypisz w konsoli "email zawiera @", w przeciwnym razie wypisz "email nie zawiera @"
+Sprawdź czy występuje w niej słowo "kot". Jeżeli tak - wypisz w konsoli "Zdanie zawiera słowo kot", w przeciwnym razie wypisz "Zdanie nie zawiera słowa kot".
 
 ## Zadanie 5
 Korzystając z poznanych funkcji dla stringów zamień poniższy tekst:
