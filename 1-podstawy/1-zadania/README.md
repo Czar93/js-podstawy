@@ -1,4 +1,4 @@
-![](../kursjs.png)
+![](../../kursjs.png)
 
 # Kurs Javascript - super postawy
 
@@ -13,7 +13,7 @@ Nasz skrypt musi być wstawiony w sekcji HEAD - takie mamy wytyczne od klienta.
 Co musimy zrobić by go tam wstawić i by mógł odwoływać się do elementów na stronie (buttona), które wczytywane są później? Jakie znasz sposoby na obejście tej sytuacji?
 
 ## Zadanie 3
-Stwórz zmienne każdego typu i wypisz je w konsoli.
+Stwórz zmienne każdego typu i wypisz je w konsoli. Wypisz też ich typ.
 
 ## Zadanie 4
 Mamy przykładowe zmienne:
@@ -26,27 +26,10 @@ const number2 = "34"
 Wypisz ich typ w konsoli, a następnie dodaj do siebie tak, by wyszedł wynik 57
 
 ## Zadanie 5
-Sprawdź czy istnieje zmienna number. Jeżeli nie istnieje, stwórz ją i wypisz jej typ w konsoli.
+Sprawdź czy istnieje zmienna `nr`. Jeżeli nie istnieje, stwórz ją i wypisz jej typ w konsoli.
 
 ## Zadanie 6
-Za pomocą Math wylosuj 2 liczby z przedziału 10-100. Następnie wypisz w konsoli większą z nich.
-
-## Zadanie 7
-Pod zmienną color wylosuj losowy kolor, a następnie wypisz go w konsoli. Zadanie wykonaj w skrypcie pisanym inline w kodzie strony html.
-
-## Zadanie 8
-Wpisz w konsoli debugera słowo `console` i naciśnij enter.
-Rozwiń pokazany obiekt i spróbuj analogicznie do `console.log()` przetestować kilka dodatkowych metod obiektu console. W razie czego posiłkuj się stroną https://developer.mozilla.org/pl/docs/Web/API/Console
-
-## Zadanie 9
-Podobnie do poprzedniego zadania wypisz w konsoli debugera obiekt `Math`. Wypisz w konsoli:
-
-- sinus z 1
-- kosinus z 1
-- tangens z 1
-- liczbę PI
-
-Korzystaj tylko z właściwości i metod obiektu Math. Dodatkowo wypisz te wartości zaokrąglone.
-
+Wstaw na stronę skrypt inline za pomocą znacznika `<script>`.
+Za pomocą [prompt()](https://developer.mozilla.org/pl/docs/Web/API/Window/prompt) zapytaj użytkownika ile ma lat. Jeżeli ma mniej niż 18, za pomocą [alert()](https://developer.mozilla.org/pl/docs/Web/API/Window/alert) wypisz komunikat "Masz za mało lat", w przeciwnym razie wypisz "Ok, możesz wejść".
 
 
