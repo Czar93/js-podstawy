@@ -1,4 +1,4 @@
-![](../../../kursjs.png)
+![](../../kursjs.png)
 
 # KursJS - tablice iteracje
 
