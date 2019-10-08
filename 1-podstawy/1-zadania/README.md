@@ -14,6 +14,11 @@ Co musimy zrobić by go tam wstawić i by mógł odwoływać się do elementów 
 
 ## Zadanie 3
 Stwórz zmienne każdego typu i wypisz je w konsoli. Wypisz też ich typ.
+Przykładowo:
+```
+const str = "test";
+console.log(str, typeof str);
+```
 
 ## Zadanie 4
 Mamy przykładowe zmienne:
@@ -26,7 +31,7 @@ const number2 = "34"
 Wypisz ich typ w konsoli, a następnie dodaj do siebie tak, by wyszedł wynik 57
 
 ## Zadanie 5
-Sprawdź czy istnieje zmienna `nr`. Jeżeli nie istnieje, stwórz ją i wypisz jej typ w konsoli.
+Sprawdź czy istnieje zmienna `nr` (nie istnieje, bo jej nie stworzyliśmy). Jeżeli nie istnieje, stwórz ją i wypisz jej typ w konsoli.
 
 ## Zadanie 6
 Wstaw na stronę skrypt inline za pomocą znacznika `<script>`.
