@@ -33,5 +33,5 @@ Za pomocą pętli wygeneruj poniższy tekst:
 
 `01-2--3---4----5-----6------7-------`
 
-Zadanie wykonaj dla zmiennej równej `n=10`
+Zadanie wykonaj dla zmiennej równej `n=7`
 
