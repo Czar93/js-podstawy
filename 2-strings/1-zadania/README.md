@@ -10,8 +10,7 @@ Mamy tekst: `Koty i psy to fajne zwierzaki`
 Wypisz w konsoli liczbę wyrazów w tym zdaniu.
 
 ## Zadanie 3
-Ktoś w formularzu wpisał imię "piotrek" z małej litery. Super bohater wkracza do akcji i musi je poprawić.
-Popraw to imię tak by zaczynało się dużą literą.
+Stwórz nową zmienną z imieniem pisanym małymi literami. Następnie używając odpowiednich funkcji dla stringów popraw to imię tak by zaczynało się z dużej litery.
 
 ## Zadanie 4
 Mamy zmienną:
@@ -26,8 +25,10 @@ Korzystając z poznanych funkcji dla stringów zamień poniższy tekst:
 const text = "Uczę się stringów w C++";
 ```
 na
-`"Uczę się stringów w Javascript"`
-Zadanie zrób na 2 sposoby: z wykorzystaniem **replace()** oraz bez korzystania z tej metody.
+```
+"Uczę się stringów w Javascript"
+```
+Po zamianie tekstu zwróć pozycje słowa `Javascript`
 
 ## Zadanie 6
 Powiedzmy, że mamy zmienną z adresem strony:
@@ -54,5 +55,20 @@ Wypisz w konsoli:
 - tekst pisany naprzemiennie dużymi i małymi literami
 - zamień imię Ala na Ola i wypisz wynik w konsoli
 
+
 ## Zadanie 8
+Korzystając z obiektu Math stwórz kilka randomowych zmiennych z zakresu 10-100000. Wzór na losowe liczby znajdziesz na stronie https://kursjs.pl/math.
+Po wygenerowaniu wypisz je w konsoli tak, by wszystkie kończyły się w jednej linii. Przykładowo:
+
+```
+         10
+        102
+          1
+       1002
+      92020
+```
+
+Wykorzystaj tutaj funkcję [padStart()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart). Zakładamy, że pojedyncza linia powinna mieć długość 10 znaków.
+
+## Zadanie 9
 Wygeneruj pod zmienną `uniqueID` tekst będący losowym ciągiem liter i cyfr o długości 20. Nie narzucam tutaj sposobu rozwiązania.
