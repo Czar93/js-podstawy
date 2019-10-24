@@ -90,6 +90,6 @@ Pierwsza funkcja niech zwraca nową tablicę, w której imiona są zapisane duż
 Napisz samo wywołujące się wyrażenie funkcyjne (IIFE), które będzie przyjmować 2 parametry: name i age. Funkcja powinna wypisać w konsoli tekst "Marek ma 10 lat".
 
 ## Zadanie 12
-Napisz funkcję showFile, która przyjmować będzie jeden parametr `fileName`, do którego przy wywołaniu będziesz podawać nazwę plików (jako string).
+Napisz funkcję showFile, która zwróci funkcję zagnieżdżoną, do której będziesz mógł przekazywać nazwę pliku.
 Funkcja powinna przy kolejnych wywołaniach wypisywać teksty w konsoli np. `1. plik.jpg`, `2. inny.jpg`, `3. my.txt`. Przy każdym odpaleniu funkcji automatycznie powinien zwiększyć się licznik. Wykorzystaj tutaj closures.
 
