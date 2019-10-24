@@ -33,7 +33,7 @@ const names = [
 ```
 Posortuj ją i wypisz w konsoli.
 
-## Zadanie 6
+## Zadanie 7
 Mamy tablicę:
 
 ```
@@ -49,7 +49,7 @@ const tab = [
 
 Posortuj ją po długościach kolejnych elementów. Na początku powinien być najkrótszy tekst, na końcu najdłuższy. Następnie napisz, ile liter mają wszystkie elementy razem.
 
-## Zadanie 7
+## Zadanie 8
 Mamy tablicę:
 
 ```
@@ -69,7 +69,7 @@ const files = [
 
 Posegreguj tą tablicę po rozszerzeniach plików.
 
-## Zadanie 8
+## Zadanie 9
 Mamy tablicę:
 
 ```
@@ -84,10 +84,10 @@ const tabUsers = [
 Za pomocą dowolnej pętli wypisz w konsoli imiona użytkowników, którzy są pełnoletni.
 Dodatkowe - spróbuj zrobić to zadanie także za pomocą odpowiedniej do tego celu funkcji.
 
-## Zadanie 9
+## Zadanie 10
 Napisz funkcję `checkPalindrom(txt)`, która zwróci true/false w zależności od tego, czy przekazane słowo jest palindromem.
 
-## Zadanie 10
+## Zadanie 11
 Mamy zdanie:
 
 ```
@@ -96,7 +96,7 @@ const txt = "Turlał goryl po Urlach kolorowe korale"
 
 Policz ile w tym zdaniu jest liter (bez spacji), oraz ile jest wyrazów. Obie liczby wypisz w konsoli w ładnym tekście :)
 
-## Zadanie 11
+## Zadanie 12
 Mamy tablicę:
 
 ```
@@ -106,7 +106,7 @@ const tab = [1,2,3, [4,5,6, [7, 8]], 9, 10];
 Policz sumę wszystkich liczb w tablicy.
 Następnie wypisz w konsoli tą sumę oraz średnią liczb.
 
-## Zadanie 12
+## Zadanie 13
 Stwórz funkcję `monthName(nr)`, która będzie przyjmować tylko jeden atrybut - numer miesiąca. Funkcja powinna sprawdzić czy numer miesiąca jest prawidłowy (1-12). Jeżeli tak jest powinna zwrócić nazwę miesiąca w języku polskim.
 
 Dla przykładu:
