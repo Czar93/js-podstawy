@@ -6,7 +6,7 @@
 Za pomocą Math wylosuj 3 liczby z przedziału 10-20 (odpowiedni wzór możesz znaleźć na stronie https://kursjs.pl/math). Następnie wypisz w konsoli największą z nich.
 
 ## Zadanie 2
-Pod zmienną color wylosuj losowy kolor, a następnie wypisz go w konsoli. Zadanie wykonaj w skrypcie pisanym inline w kodzie strony html.
+Pod zmienną color wylosuj losowy kolor, a następnie wypisz go w konsoli.
 
 ## Zadanie 3
 Wpisz w konsoli debugera słowo `console` i naciśnij enter.
