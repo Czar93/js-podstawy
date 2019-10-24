@@ -1,2 +1,4 @@
-//poniższej linijki nie kasuj
-document.querySelector('button').innerText = "Nowy tekst na przycisku";
+{
+    const txt = "Przykładowy tekst wcale nie najlepszy";
+    console.log(txt, txt.length);
+}

@@ -36,14 +36,14 @@ wynik -> "kotkotkot";
 
 Powtórzenie tekstu wygeneruj za pomocą pętli. Po uzyskaniu efektu, powtórzenie wygeneruj za pomocą metody [repeat()](https://developer.mozilla.org/pl/docs/Web/JavaScript/Referencje/Obiekty/String/repeat) dla stringów.
 
-## Zadanie 7
+## Zadanie 6
 Za pomocą pętli wygeneruj poniższy tekst:
 
 `01-2--3---4----5-----6------7-------`
 
 Zadanie wykonaj dla zmiennej równej `n=7`
 
-## Zadanie 8
+## Zadanie 7
 Za pomocą `prompt()` pobierz od użytkownika liczbę z przedziału 1-1000. Pamiętaj, że prompt zwraca zawsze tekst, więc skonwertuj ją na liczbę.
 
 Robiąc pętlę while generuj losową liczbę z przedziału 1-1000.

@@ -1,2 +1,9 @@
-//poniższej linijki nie kasuj
-document.querySelector('button').innerText = "Nowy tekst na przycisku";
+{
+    let str = "";
+
+    for (let i=0; i<6; i++) {
+        str += "*";
+    }
+
+    console.log(str);
+}
