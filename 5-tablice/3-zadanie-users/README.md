@@ -2,7 +2,7 @@
 
 # KursJS - tablice iteracje
 
-Do pliku index.html dołączone są 2 pliki js: app.js i data.js. W pliku data.js jest tablica użytkowników. Zadanie rozwiązuj w pliku app.js.
+Do pliku index.html dołączone są 2 pliki js: js/app.js i js/data.js. W pliku data.js jest tablica użytkowników. Zadanie rozwiązuj w pliku js/app.js.
 
 Twoim zadaniem jest wykonać poniższe polecenia.
 
