@@ -2,9 +2,9 @@
 
 # KursJS - tablice iteracje
 
-Do pliku html dołączone są 2 pliki: cities.js i app.js.
+Do pliku html dołączone są 2 pliki: js/cities.js i js/app.js.
 
-W pliku cities.js znajduje się tablica cities z miastami - każde miast to obiekt.
+W pliku js/cities.js znajduje się tablica cities z miastami - każde miast to obiekt.
 
 Zadanie wykonuj w pliku js/app.js.
 Podobnie do zadania users - postaraj się używać odpowiednich funkcji dla tablic i stosować jak najkrótszy zapis.
