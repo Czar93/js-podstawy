@@ -8,9 +8,16 @@ const tab = [[0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,3,3,3,3,3,0,0,0,0,0],[0,0,0,
 //-----------------------------------------
 let text = '';
 //tutaj zrób zadanie za pomocą pętli
-
-
-
+for (let i=0; i<tab.length; i++) {
+    //console.log(tab[i]);
+    const subTab = tab[i];
+    for (let j=0; j<subTab.length; j++) {
+        const nrColor = subTab[j];
+        const color = colors[nrColor];
+        text += `<div style="background:${color}"></div>`;
+    }
+    text += "<br>";
+}
 
 
 //tutaj wstawiamy do div wygenerowany html - nie ruszaj poniższej linijki
